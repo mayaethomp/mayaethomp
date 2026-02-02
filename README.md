@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayaethomp
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++, Python, and Java
+- 🌱 I’m currently learning C/C++, Python, and Java
 - 💞️ I’m looking to collaborate on beginner projects!
 - 📫 How to reach me << email: mayausc@gmail.com 
 - 😄 Pronouns: she/her
