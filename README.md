@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mayaethomp
+# 👋 Hi, I’m @mayaethomp
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C/C++, Python, and Java
 - 💞️ I’m looking to collaborate on beginner projects!
-- 📫 How to reach me << email: mayausc@gmail.com << instagram: mayatbsn
+- 📫 How to reach me  
+    - 📧 email: mayausc@gmail.com  
+    - 📸 instagram: mayatbsn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Registered Nurse!
 
