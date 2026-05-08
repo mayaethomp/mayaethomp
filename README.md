@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Maya
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C/C++, Python, and Java
-- 💞️ I’m looking to collaborate on beginner projects!
+- 💞️ I’m looking to collaborate on all kinds of projects!
 - 📫 How to reach me  
     - 📧 email: mayausc@gmail.com  
     - 📸 instagram: mayatbsn
