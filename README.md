@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Maya
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C/C++, Python, and Java
+- 👀 I’m interested in full stack web development and building applications
+- 🌱 I’m currently learning C/C++, Python, SQL, and Java
 - 💞️ I’m looking to collaborate on all kinds of projects!
 - 📫 How to reach me:
     - 📧 For professional inquiries: mayaethomp@gmail.com  
