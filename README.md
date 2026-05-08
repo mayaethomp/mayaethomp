@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning C/C++, Python, and Java
 - 💞️ I’m looking to collaborate on all kinds of projects!
 - 📫 How to reach me:
-    - For professional inquiries: mayaethomp@gmail.com 
-    - 📧 email: mayausc@gmail.com  
-    - 📸 instagram: mayatbsn
+    - 📧 For professional inquiries: mayaethomp@gmail.com  
+    - 💼 [LinkedIn](https://www.linkedin.com/in/mayathompsonrn/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Registered Nurse!
 
